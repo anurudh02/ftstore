@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ftstore/static/css/main.5ad9335d.css",
+    "main.js": "/ftstore/static/js/main.e4ca18d8.js",
+    "index.html": "/ftstore/index.html",
+    "main.5ad9335d.css.map": "/ftstore/static/css/main.5ad9335d.css.map",
+    "main.e4ca18d8.js.map": "/ftstore/static/js/main.e4ca18d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ad9335d.css",
+    "static/js/main.e4ca18d8.js"
+  ]
+}
